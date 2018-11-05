@@ -1,5 +1,4 @@
-# BioInformatics Course 1- Programs
-BioInformatics from Coursera
+# BioInformatics Coursera Course 1- Programs
 This readme explains the goal of the course, as well as some of the potential applications of the knowledge aquired.
 
 ## The goal of the course: 
