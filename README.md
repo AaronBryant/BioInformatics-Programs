@@ -1,4 +1,4 @@
-# BioInformatics-Programs
+# BioInformatics Course 1-Programs
 BioInformatics from Coursera
 This is a list of the functions completed in the BioInformatics Course from Coursera. 
 
