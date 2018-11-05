@@ -8,7 +8,7 @@ This is a list of the functions completed in the BioInformatics Course from Cour
 
 -Learn which DNA patterns play the role of molecular clocks. The cells in your body manage to maintain a circadian rhythm, but how is this achieved on the level of DNA?
 
-## Python Concepts (CodeAcademy and Stepik interactive lessons):
+### Python Concepts (CodeAcademy and Stepik interactive lessons):
 1. Python Syntax
 2. Strings and Console Output
 3. Conditionals and Control Flow
