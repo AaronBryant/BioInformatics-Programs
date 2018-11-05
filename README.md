@@ -2,7 +2,7 @@
 BioInformatics from Coursera
 This is a list of the functions completed in the BioInformatics Course from Coursera. 
 
-# The goal of the Course: 
+## The goal of the course: 
 
 -Learn the basics of Python programming and make some simple algorithms to try and find the origin of replication in small genomes.
 
