@@ -19,10 +19,14 @@ This readme explains the goal of the course, as well as some of the potential ap
 9. Introduction to Classes
 10. File input and output
 
-### Applications:
+### Origins of Replication Genes:
 Finding the Origin of Replication in a Genome is important for various reasons. For example:
 
 Viral vectors carrying artificial genes have been widely used in agriculture, such as to engineer frost-resistant tomatoes and pesticide-resistant corn. In 1990, gene therapy was first successfully performed on humans when it saved the life of a four year-old girl suffering from an immunodeficiency disorder; the girl had been so vulnerable to infections that she was forced to live in a sterile environment.
 
 The idea of gene therapy is to intentionally infect a patient who lacks a crucial gene with a viral vector containing an artificial gene that encodes a therapeutic protein. Once inside the cell, the vector replicates and eventually produces many molecules of the therapeutic protein, which in turn treats the patient’s disease. To ensure that the vector actually replicates inside the cell, biologists must know where ori is in the vector’s genome and ensure that the genetic manipulations that they perform do not affect it.
+
+### Circadian Clock Genes:
+The daily schedules of animals, plants, and even bacteria are controlled by an internal timekeeper called the circadian clock.
+How do individual cells in animals and plants (let alone bacteria) know what time it is? Is there a “clock gene”? Can we explain why heart attacks occur more often in the morning, while asthma attacks are more common at night? And can we identify genes that are responsible for “breaking” the circadian clock to cause delayed sleep-phase syndrome (DSPS)?
 
