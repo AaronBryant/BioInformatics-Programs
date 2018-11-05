@@ -1,5 +1,5 @@
 # BioInformatics Coursera Course 1- Programs
-This readme explains the goal of the course, as well as some of the potential applications of the knowledge acquiared.
+This readme explains the goal of the course, as well as some of the potential applications of the knowledge acquired.
 
 ## The goal of the course: 
 
