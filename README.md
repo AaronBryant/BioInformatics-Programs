@@ -22,5 +22,6 @@ This is a list of the functions completed in the BioInformatics Course from Cour
 
 ### Programs and Applications
 1. Finding the Origin of Replication in a Genome is important for many reasons. For example:
+
 The idea of gene therapy is to intentionally infect a patient who lacks a crucial gene with a viral vector containing an artificial gene that encodes a therapeutic protein. Once inside the cell, the vector replicates and eventually produces many molecules of the therapeutic protein, which in turn treats the patient’s disease. To ensure that the vector actually replicates inside the cell, biologists must know where ori is in the vector’s genome and ensure that the genetic manipulations that they perform do not affect it.
 
