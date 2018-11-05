@@ -22,5 +22,7 @@ This readme explains the goal of the course, as well as some of the potential ap
 ### Applications:
 Finding the Origin of Replication in a Genome is important for various reasons. For example:
 
+Viral vectors carrying artificial genes have been widely used in agriculture, such as to engineer frost-resistant tomatoes and pesticide-resistant corn. In 1990, gene therapy was first successfully performed on humans when it saved the life of a four year-old girl suffering from an immunodeficiency disorder; the girl had been so vulnerable to infections that she was forced to live in a sterile environment.
+
 The idea of gene therapy is to intentionally infect a patient who lacks a crucial gene with a viral vector containing an artificial gene that encodes a therapeutic protein. Once inside the cell, the vector replicates and eventually produces many molecules of the therapeutic protein, which in turn treats the patient’s disease. To ensure that the vector actually replicates inside the cell, biologists must know where ori is in the vector’s genome and ensure that the genetic manipulations that they perform do not affect it.
 
